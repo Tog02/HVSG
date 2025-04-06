@@ -1,0 +1,131 @@
+Added Component: Designator=*(trafopowielacz)
+Added Component: Designator=HVpin(HDR1X1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=p1(pin3)
+Added Component: Designator=PIN16A(pin16)
+Added Component: Designator=PIN16B(pin16)
+Added Component: Designator=Rf1(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=Rf2(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=RQ2(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RT1(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW_rst(SQ_6m_4X6m)
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=T1(TO-92W)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC548B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-4
+Added Pin To Net: NetName=12V Pin=*-5
+Added Pin To Net: NetName=GND2 Pin=*-7
+Added Pin To Net: NetName=NetHVpin_1 Pin=HVpin-1
+Added Pin To Net: NetName=12V Pin=p1-0
+Added Pin To Net: NetName=5V Pin=p1-1
+Added Pin To Net: NetName=GND Pin=p1-2
+Added Pin To Net: NetName=NetPIN16A_0 Pin=PIN16A-0
+Added Pin To Net: NetName=NetPIN16A_1 Pin=PIN16A-1
+Added Pin To Net: NetName=NetPIN16A_2 Pin=PIN16A-2
+Added Pin To Net: NetName=NetPIN16A_3 Pin=PIN16A-3
+Added Pin To Net: NetName=NetPIN16A_4 Pin=PIN16A-4
+Added Pin To Net: NetName=NetPIN16A_5 Pin=PIN16A-5
+Added Pin To Net: NetName=NetPIN16A_6 Pin=PIN16A-6
+Added Pin To Net: NetName=NetPIN16A_7 Pin=PIN16A-7
+Added Pin To Net: NetName=NetPIN16A_8 Pin=PIN16A-8
+Added Pin To Net: NetName=NetPIN16A_9 Pin=PIN16A-9
+Added Pin To Net: NetName=NetPIN16A_10 Pin=PIN16A-10
+Added Pin To Net: NetName=NetPIN16A_11 Pin=PIN16A-11
+Added Pin To Net: NetName=NetPIN16A_12 Pin=PIN16A-12
+Added Pin To Net: NetName=NetPIN16A_13 Pin=PIN16A-13
+Added Pin To Net: NetName=NetPIN16A_14 Pin=PIN16A-14
+Added Pin To Net: NetName=NetPIN16A_15 Pin=PIN16A-15
+Added Pin To Net: NetName=rst Pin=PIN16B-0
+Added Pin To Net: NetName=NetPIN16B_3 Pin=PIN16B-3
+Added Pin To Net: NetName=NetPIN16B_4 Pin=PIN16B-4
+Added Pin To Net: NetName=NetPIN16B_5 Pin=PIN16B-5
+Added Pin To Net: NetName=NetPIN16B_6 Pin=PIN16B-6
+Added Pin To Net: NetName=NetPIN16B_7 Pin=PIN16B-7
+Added Pin To Net: NetName=NetPIN16B_8 Pin=PIN16B-8
+Added Pin To Net: NetName=NetPIN16B_9 Pin=PIN16B-9
+Added Pin To Net: NetName=NetPIN16B_10 Pin=PIN16B-10
+Added Pin To Net: NetName=PB4 Pin=PIN16B-11
+Added Pin To Net: NetName=NetPIN16B_12 Pin=PIN16B-12
+Added Pin To Net: NetName=NetPIN16B_13 Pin=PIN16B-13
+Added Pin To Net: NetName=NetPIN16B_14 Pin=PIN16B-14
+Added Pin To Net: NetName=NetPIN16B_15 Pin=PIN16B-15
+Added Pin To Net: NetName=NetRf1_1 Pin=Rf1-1
+Added Pin To Net: NetName=GND2 Pin=Rf1-2
+Added Pin To Net: NetName=NetHVpin_1 Pin=Rf2-1
+Added Pin To Net: NetName=NetRf1_1 Pin=Rf2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=RQ2-1
+Added Pin To Net: NetName=12V Pin=RQ2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=RT1-1
+Added Pin To Net: NetName=5V Pin=RT1-2
+Added Pin To Net: NetName=GND Pin=SW_rst-1
+Added Pin To Net: NetName=GND Pin=SW_rst-2
+Added Pin To Net: NetName=rst Pin=SW_rst-3
+Added Pin To Net: NetName=rst Pin=SW_rst-4
+Added Pin To Net: NetName=NetQ2_1 Pin=T1-1
+Added Pin To Net: NetName=NetRster_1 Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T1-3
+Added Member To Class: ClassName=Sheet1 Member=Component * trafopowielacz
+Added Member To Class: ClassName=Sheet1 Member=Component HVpin GOLDPIN_1
+Added Member To Class: ClassName=Sheet1 Member=Component p1 pin3
+Added Member To Class: ClassName=Sheet1 Member=Component PIN16A pin16
+Added Member To Class: ClassName=Sheet1 Member=Component PIN16B pin16
+Added Member To Class: ClassName=Sheet1 Member=Component Rf1 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Sheet1 Member=Component Rf2 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Sheet1 Member=Component RQ2 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Sheet1 Member=Component RT1 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Sheet1 Member=Component SW_rst SWITCH_SQ_6m_4X6m
+Added Member To Class: ClassName=Sheet1 Member=Component T1 BC548

@@ -1,0 +1,6 @@
+Added Component: Designator=*(trafopowielacz)
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-4
+Added Pin To Net: NetName=12V Pin=*-5
+Added Pin To Net: NetName=GND2 Pin=*-7
+Added Member To Class: ClassName=Sheet1 Member=Component * trafopowielacz

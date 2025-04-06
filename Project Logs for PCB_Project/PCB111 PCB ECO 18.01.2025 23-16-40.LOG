@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=Q1 Old Footprint=INF-PG-TO247-3-44 New Footprint=NMOS_ STW11NM80
+Change Component Comment : Designator=Q1 Old Comment=IPW65R080CFDA New Comment=NMOS_STW11NM80
+Change Component Designator: OldDesignator=* NewDesignator=TR
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=209A2782-4623-4869-A94D-9DDF369B60F4 New ItemGUID= Old RevisionGUID=70355F49-922B-4CE0-8F4B-E54CC7D13989 New RevisionGUID=
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "INF-PG-TO247-3-44"; UniqueID = "\OGOTZYRK" ("\OGOTZYRK")
+Added Component: Designator=*(NMOS_ STW11NM80)
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetQ1_2
+Added Member To Class: ClassName=Sheet1 Member=Component TR trafopowielacz
+Added Rule: Name=Schematic Width Constraint_5

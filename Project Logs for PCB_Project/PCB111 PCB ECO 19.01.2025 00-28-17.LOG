@@ -1,0 +1,4 @@
+Added Component: Designator=*(NMOS_ STW11NM80)
+Change Net Name : Old Net Name=NetRster_1 New Net Name=NetRT1_1
+Added Member To Class: ClassName=Sheet1 Member=Component * NMOS_STW11NM80
+Added Member To Class: ClassName=Sheet1 Member=Component RT1 RES_AX_1/4W_4M

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=*-3
+Removed Pin From Net: NetName=GND Pin=*-4
+Removed Pin From Net: NetName=12V Pin=*-5
+Removed Pin From Net: NetName=GND2 Pin=*-7
+Added Component: Designator=*(trafopowielacz)
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=12V Pin=*-5
+Added Pin To Net: NetName=GND2 Pin=*-7
+Added Member To Class: ClassName=Sheet1 Member=Component RQ? 100k
